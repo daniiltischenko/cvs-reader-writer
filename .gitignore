@@ -1,0 +1,7 @@
+# IntelliJ files #
+.idea
+local.properties
+*.iml
+*.ipr
+*.iws
+out
